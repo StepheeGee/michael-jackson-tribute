@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Thriller",
+    "image": "thriller.jpg",
+    "songs": [
+      { "title": "Wanna Be Startin' Somethin'", "year": 1982 },
+      { "title": "Baby Be Mine'", "year": 1982 },
+      { "title": "The Girl is Mine", "year": 1982 },
+      { "title": "Thriller", "year": 1982 },
+      { "title": "Beat It", "year": 1982 },
+      { "title": "Billie Jean", "year": 1982 },
+      { "title": "Human Nature", "year": 1982 },
+      { "title": "P.Y.T. (Pretty Young Thing)", "year": 1982 },
+      { "title": "The Lady In My Life", "year": 1982 }
+    ]
+  },
+  {
+    "title": "Bad",
+    "image": "bad.jpg",
+    "songs": [
+      { "title": "Bad", "year": 1987 },
+      { "title": "The Way You Make Me Feel", "year": 1987 },
+      { "title": "Speed Demon", "year": 1987 },
+      { "title": "Liberian Girl", "year": 1987 },
+      { "title": "Just Good Friends (featuring Stevie Wonder)", "year": 1987 },
+      { "title": "Another Part of Me", "year": 1987 },
+      { "title": "Man in the Mirror (featuring Siedah Garrett)", "year": 1987 },
+      { "title": "I Just Can't Stop Loving You (featuring Siedah Garrett)", "year": 1987 },
+      { "title": "Dirty Diana", "year": 1987 },
+      { "title": "Smooth Criminal", "year": 1987 }
+    ]
+  },
+  {
+    "title": "Dangerous",
+    "image": "dangerous.jpg",
+    "songs": [
+      { "title": "Jam", "year": 1991 },
+      { "title": "Why You Wanna Trip On Me", "year": 1991 },
+      { "title": "In The Closet", "year": 1991 },
+      { "title": "Remember The Time", "year": 1991 },
+      { "title": "Can't Let Her Get Away", "year": 1991 },
+      { "title": "Heal The World", "year": 1991 },
+      { "title": "Black Or White", "year": 1991 },
+      { "title": "Who Is It", "year": 1991 },
+      { "title": "Give In To Me", "year": 1991 },
+      { "title": "Will You Be There", "year": 1991 },
+      { "title": "Keep The Faith", "year": 1991 },
+      { "title": "Gone Too Soon", "year": 1991 },
+      { "title": "Dangerous", "year": 1991 }
+    ]
+  },
+  {
+    "title": "Off the Wall",
+    "image": "off_the_wall.jpg",
+    "songs": [
+      { "title": "Don’t Stop ‘Til You Get Enough", "year": 1979 },
+      { "title": "Rock With You", "year": 1979 },
+      { "title": "Workin’ Day And Night", "year": 1979 },
+      { "title": "Get On The Floor", "year": 1979 },
+      { "title": "Off The Wall", "year": 1979 },
+      { "title": "Girlfriend", "year": 1979 },
+      { "title": "She’s Out Of My Life", "year": 1979 },
+      { "title": "I Can’t Help It", "year": 1979 },
+      { "title": "It’s The Falling In Love", "year": 1979 },
+      { "title": "Burn This Disco Out", "year": 1979 }
+    ]
+  }
+]
